@@ -1,78 +1,78 @@
-,id_cbk,categoria
-0,30,Desacordo Comercial
-1,30,Desacordo Comercial
-2,41,Desacordo Comercial
-3,41,Desacordo Comercial
-4,53,Desacordo Comercial
-5,53,Desacordo Comercial
-6,53,Desacordo Comercial
-7,57,Fraude
-8,62,Fraude
-9,62,Fraude
-10,62,Fraude
-11,70,Autorização
-12,71,Autorização
-13,71,Erro de processamento
-14,72,Erro de processamento
-15,73,Autorização
-16,74,Erro de processamento
-17,74,Erro de processamento
-18,76,Erro de processamento
-19,76,Erro de processamento
-20,77,Erro de processamento
-21,77,Erro de processamento
-22,80,Erro de processamento
-23,80,Erro de processamento
-24,81,Fraude
-25,81,Fraude
-26,82,Erro de processamento
-27,82,Erro de processamento
-28,83,Fraude
-29,83,Fraude
-30,85,Desacordo Comercial
-31,85,Desacordo Comercial
-32,85,Desacordo Comercial
-33,85,Erro de processamento
-34,86,Desacordo Comercial
-35,86,Erro de processamento
-36,90,Desacordo Comercial
-37,93,Fraude
-38,4507,Erro de processamento
-39,4512,Erro de processamento
-40,4513,Desacordo Comercial
-41,4515,Desacordo Comercial
-42,4521,Autorização
-43,4523,Erro de processamento
-44,4527,Fraude
-45,4530,Erro de processamento
-46,4534,Fraude
-47,4536,Erro de processamento
-48,4540,Fraude
-49,4544,Desacordo Comercial
-50,4553,Desacordo Comercial
-51,4554,Desacordo Comercial
-52,4750,Desacordo Comercial
-53,4752,Erro de processamento
-54,4754,Desacordo Comercial
-55,4755,Fraude
-56,4763,Fraude
-57,4798,Fraude
-58,4799,Fraude
-59,4807,Autorização
-60,4808,Autorização
-61,4812,Autorização
-62,4831,Desacordo Comercial
-63,4831,Erro de processamento
-64,4834,Erro de processamento
-65,4837,Fraude
-66,4841,Desacordo Comercial
-67,4842,Erro de processamento
-68,4846,Erro de processamento
-69,4849,Fraude
-70,4850,Erro de processamento
-71,4853,Desacordo Comercial
-72,4855,Desacordo Comercial
-73,4860,Erro de processamento
-74,4863,Fraude
-75,4870,Fraude
-76,4871,Fraude
+id_cbk,categoria
+30,Desacordo Comercial
+30,Desacordo Comercial
+41,Desacordo Comercial
+41,Desacordo Comercial
+53,Desacordo Comercial
+53,Desacordo Comercial
+53,Desacordo Comercial
+57,Fraude
+62,Fraude
+62,Fraude
+62,Fraude
+70,Autorização
+71,Autorização
+71,Erro de processamento
+72,Erro de processamento
+73,Autorização
+74,Erro de processamento
+74,Erro de processamento
+76,Erro de processamento
+76,Erro de processamento
+77,Erro de processamento
+77,Erro de processamento
+80,Erro de processamento
+80,Erro de processamento
+81,Fraude
+81,Fraude
+82,Erro de processamento
+82,Erro de processamento
+83,Fraude
+83,Fraude
+85,Desacordo Comercial
+85,Desacordo Comercial
+85,Desacordo Comercial
+85,Erro de processamento
+86,Desacordo Comercial
+86,Erro de processamento
+90,Desacordo Comercial
+93,Fraude
+4507,Erro de processamento
+4512,Erro de processamento
+4513,Desacordo Comercial
+4515,Desacordo Comercial
+4521,Autorização
+4523,Erro de processamento
+4527,Fraude
+4530,Erro de processamento
+4534,Fraude
+4536,Erro de processamento
+4540,Fraude
+4544,Desacordo Comercial
+4553,Desacordo Comercial
+4554,Desacordo Comercial
+4750,Desacordo Comercial
+4752,Erro de processamento
+4754,Desacordo Comercial
+4755,Fraude
+4763,Fraude
+4798,Fraude
+4799,Fraude
+4807,Autorização
+4808,Autorização
+4812,Autorização
+4831,Desacordo Comercial
+4831,Erro de processamento
+4834,Erro de processamento
+4837,Fraude
+4841,Desacordo Comercial
+4842,Erro de processamento
+4846,Erro de processamento
+4849,Fraude
+4850,Erro de processamento
+4853,Desacordo Comercial
+4855,Desacordo Comercial
+4860,Erro de processamento
+4863,Fraude
+4870,Fraude
+4871,Fraude
